@@ -1,0 +1,18 @@
+;HEAD
+name=English / English
+;BODY
+arena.creator.cancelled=§9Arena creation cancelled!
+arena.creator.isalreadycreating=§cYou are already creating an arena!
+arena.creator.isnotcreating=§cYou are not creating an arena at the moment!
+arena.creator.start=You are now creating an arena. §eLeft-Click§f the first block you want to select, §eRight-Click§f the second block you want to select. When ready, simply §eenter the name§f of the arena in the chatbox.
+arena.creator.nameset=Set name §b"{name}"§f
+arena.creator.step2=Okay, we are now ready to finish the creation of this arena. §eType "create" to confirm§f.
+§arena.creator.createData=create
+arena.creator.wrongnamedata=§cCould not recognize entered data.
+arena.creator.error.nospaces=§cSpaces are not allowed!
+arena.creator.error.nameset=§cThis name is already being used.
+arena.creator.finished=§aArena successfully created!
+arena.notexists=§cThis arena does not exist!
+arena.enabled=§aArena enabled!
+arena.disabled=§aArena disabled!
+arena.deleted=$aArena deleted!

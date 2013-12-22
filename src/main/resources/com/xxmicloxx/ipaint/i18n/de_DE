@@ -1,0 +1,7 @@
+;HEAD
+name=Deutsch / German
+;BODY
+arena.creator.cancelled=Arena-Erstellung abgebrochen!
+arena.creator.isalreadycreating=Du erstellst bereits eine Arena!
+arena.creator.isnotcreating=Du erstellst gerade keine Arena!
+arena.creator.start=Du erstellst jetzt eine Arena. Rechtsklicke auf den ersten Block, um anzufangen.
