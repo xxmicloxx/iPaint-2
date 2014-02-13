@@ -1,0 +1,18 @@
+;HEAD
+name=Russian / Russian
+;BODY
+arena.creator.cancelled=§9Создание Арены отменяется!
+arena.creator.isalreadycreating=§cВы уже создаете арену!
+arena.creator.isnotcreating=§cВы не создаете арену на данный момент!
+arena.creator.start=Вы сейчас создаете арену. §eLeft-Click §f первого блока, который требуется выбрать, §eRight-Click §f втором блоке вы хотите выбрать. Когда все будет готово, просто §eВведите имя §fарены непосредственно в окне чата.
+arena.creator.nameset=Установите имя §b"{name}"§f
+arena.creator.step2=Хорошо, мы теперь готовы завершить создание этой арены. §eТип "create" для подтверждения§f.
+§arena.creator.createData=создание
+arena.creator.wrongnamedata=§cНе могу признать введенные данные.
+arena.creator.error.nospaces=§cПробелы не допускаются!
+arena.creator.error.nameset=§cЭто имя уже используется.
+arena.creator.finished=§aАрена успешно создана!
+arena.notexists=§cЭта арена не существует!
+arena.enabled=§aАрена включенна!
+arena.disabled=§aАрена отключенна!
+arena.deleted=$aАрена удаленна!
